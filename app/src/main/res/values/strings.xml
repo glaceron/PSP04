@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PSP04</string>
+    <string name="euros">Euros:</string>
+    <string name="_1">1</string>
+    <string name="dolares_a_euros">Dolares a Euros</string>
+    <string name="todo">todo</string>
+    <string name="parking_tittle">parking_tittle</string>
+    <string name="textview">textView</string>
+    <string name="estado">estado</string>
+    <string name="anclajes_disponibles">anclajes_disponibles</string>
+    <string name="bicicletas_disponibles">bicicletas_disponibles</string>
+    <string name="ltima_actualizaci_n">ltima_actualización</string>
+</resources>
